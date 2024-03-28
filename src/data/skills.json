@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Back Pain",
+    "imageSrc": "skills/back-pain.png"
+  },
+  {
+    "title": "Neck Pain",
+    "imageSrc": "skills/neck-pain.png"
+  },
+  {
+    "title": "Knee Pain",
+    "imageSrc": "skills/knee-pain.png"
+  },
+  {
+    "title": "Neuro Rehabilitation",
+    "imageSrc": "skills/neuro.png"
+  },
+  {
+    "title": " Osteopathy",
+    "imageSrc": "skills/osteopathy.png"
+  },
+  {
+    "title": " Chiropractic services",
+    "imageSrc": "skills/chiropractic.png"
+  }
+]

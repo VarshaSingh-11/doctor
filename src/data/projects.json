@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Dr Amit Kumar",
+    "imageSrc": "projects/amit.png",
+    "description": "Dr. Amit Kumar (BPT, MPT (Neuro), DOMP (Canada), Certified Chiropractor) has been treating patients with history of long neurological illnesses, relating to mobility, brain and spinal problems since last 12 years.",
+    "skills": [""]
+    
+  },
+  {
+    "title": "Dr Pohap Singh",
+    "imageSrc": "projects/pohap.png",
+    "description": "Dr. Pohap singh has certified in manipulation , cyarix, PRT, MET, MFR and mobilization . He completed BPT from SGT University gurugram in 2018 and MPT in ORTHOPAEDICS from gurugram University",
+    "skills": [""]
+    
+  },
+  {
+    "title": "Dr Kavita Sharma",
+    "imageSrc": "projects/kavita.png",
+    "description": "Clinical Hypnotherapist/Age Regression Therapist/Inner Child Healer/ Registered Consultant",
+    "skills": [""]
+    
+  },
+  {
+    "title": "Dr Neha Chandel",
+    "imageSrc": "skills/neha.png",
+    "description": "Masters in Nutrition. Done internship at PGI Chandigarh.. Have 7.5 years experience former Dietitian at Artimis Gurgaon.",
+    "skills": ["Dietician/Nutritionist"]
+   
+  },
+  {
+    "title": "Dr Shalini Rokkam",
+    "imageSrc": "skills/shalini.png",
+    "description": "Fellowship in diabetology from medvatsity London. Worked as junior resident in fortis Gurgaon in nephrology and renal transplant unit",
+    "skills": ["General Physician"]
+    
+  }
+
+]
